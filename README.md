@@ -6,11 +6,6 @@
 <!---
 Mostafa-Zewail77/Mostafa-Zewail77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. -->
-<style>
- .badge-links a{
-  margin-right:100px;
- }
- </style>
 
 <h1>
 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
@@ -61,7 +56,7 @@ I'm Taufiq,a Professional Full Stack Web Developer DevOps & Software Engineer. �
 
 ## 🏆 Badges
 
-<div class="badge-links" align="center">
+<div align="center">
    <a  href="https://www.credly.com/badges/ee9bc0e0-cfe9-40b3-b100-d4ef875db22e/public_url">
     <img src="https://github.com/Taufiq-Ur-Rahim/Taufiq-Ur-Rahim/blob/main/certificates/ccna-introduction-to-networks-badge.png?raw=true" 
      alt="Introduction to Cloud Computing" width="100" height="100">
