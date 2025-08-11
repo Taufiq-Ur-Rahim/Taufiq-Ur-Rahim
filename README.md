@@ -62,11 +62,11 @@ I'm Taufiq,a Professional Full Stack Web Developer DevOps & Software Engineer. ð
      alt="Introduction to Cloud Computing" width="100" height="100">
   </a>
   <a href="https://www.credly.com/badges/ee9bc0e0-cfe9-40b3-b100-d4ef875db22e/public_url">
-    <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Git-and-Github-Essentials.png" alt="image-1-removebg-preview" 
+    <img src="https://github.com/Taufiq-Ur-Rahim/Taufiq-Ur-Rahim/blob/main/certificates/CCNA-Introduction%20to%20Networks-1.png?raw=true" 
      alt="Git-and-Github-Essentials" width="100" height="100">
   </a>
   <a href="https://coursera.org/verify/ACUOF6KH4Y3A">
-    <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Web-Development.png" 
+    <img src="https://github.com/Taufiq-Ur-Rahim/Taufiq-Ur-Rahim/blob/main/certificates/AI-For-Everyone-1.png?raw=true" 
      alt="Web-Development" width="100" height="100">
   </a>
   <!--
