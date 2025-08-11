@@ -7,7 +7,7 @@
 Mostafa-Zewail77/Mostafa-Zewail77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. -->
 <style>
- a{
+ .badge-links a{
   margin-right:10px;
  }
  </style>
@@ -61,12 +61,12 @@ I'm Taufiq,a Professional Full Stack Web Developer DevOps & Software Engineer. �
 
 ## 🏆 Badges
 
-<div align="center">
+<div class="badge-links" align="center">
    <a  href="https://www.credly.com/badges/ee9bc0e0-cfe9-40b3-b100-d4ef875db22e/public_url">
     <img src="https://github.com/Taufiq-Ur-Rahim/Taufiq-Ur-Rahim/blob/main/certificates/ccna-introduction-to-networks-badge.png?raw=true" 
      alt="Introduction to Cloud Computing" width="100" height="100">
   </a>
-  <a style="margin:5px;" href="https://www.credly.com/badges/ee9bc0e0-cfe9-40b3-b100-d4ef875db22e/public_url">
+  <a href="https://www.credly.com/badges/ee9bc0e0-cfe9-40b3-b100-d4ef875db22e/public_url">
     <img src="https://github.com/Taufiq-Ur-Rahim/Taufiq-Ur-Rahim/blob/main/certificates/CCNA-Introduction%20to%20Networks-1.png?raw=true" 
      alt="Git-and-Github-Essentials" width="100" height="100">
   </a>
