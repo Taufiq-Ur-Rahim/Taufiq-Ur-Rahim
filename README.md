@@ -57,10 +57,11 @@ I'm Taufiq,a Professional Full Stack Web Developer DevOps & Software Engineer. ğ
 ## ğŸ† Badges
 
 <div align="center">
-<!--   <a href="https://www.credly.com/badges/a1830143-fe17-40f7-8caa-0e7d8530722c">
-    <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Introduction-to-cloud.png" 
+   <a href="https://www.credly.com/badges/a1830143-fe17-40f7-8caa-0e7d8530722c">
+    <img src="E:\Exarth-Work\Taufiq-Ur-Rahim\certificates\ccna-introduction-to-networks-badge.png" 
      alt="Introduction to Cloud Computing" width="100" height="100">
   </a>
+  <!--
   <a href="https://www.credly.com/badges/9fba1e4e-3334-4641-84a8-f0941d3226be">
     <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Git-and-Github-Essentials.png" alt="image-1-removebg-preview" 
      alt="Git-and-Github-Essentials" width="100" height="100">
