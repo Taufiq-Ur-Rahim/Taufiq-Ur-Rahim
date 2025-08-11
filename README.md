@@ -58,7 +58,7 @@ I'm Taufiq,a Professional Full Stack Web Developer DevOps & Software Engineer. ð
 
 <div align="center">
    <a href="https://www.credly.com/badges/ee9bc0e0-cfe9-40b3-b100-d4ef875db22e/public_url">
-    <img src="https://raw.githubusercontent.com/Taufiq-Ur-Rahim/main/certificates/ccna-introduction-to-networks-badge.png" 
+    <img src="https://github.com/Taufiq-Ur-Rahim/Taufiq-Ur-Rahim/blob/main/certificates/ccna-introduction-to-networks-badge.png?raw=true" 
      alt="Introduction to Cloud Computing" width="100" height="100">
   </a>
   <!--
