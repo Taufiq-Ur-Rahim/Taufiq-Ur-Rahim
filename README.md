@@ -61,15 +61,15 @@ I'm Taufiq,a Professional Full Stack Web Developer DevOps & Software Engineer. ð
     <img src="E:\Exarth-Work\Taufiq-Ur-Rahim\certificates\ccna-introduction-to-networks-badge.png" 
      alt="Introduction to Cloud Computing" width="100" height="100">
   </a>
-  <!--
-  <a href="https://www.credly.com/badges/9fba1e4e-3334-4641-84a8-f0941d3226be">
+  <a href="https://www.credly.com/badges/ee9bc0e0-cfe9-40b3-b100-d4ef875db22e/public_url">
     <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Git-and-Github-Essentials.png" alt="image-1-removebg-preview" 
      alt="Git-and-Github-Essentials" width="100" height="100">
   </a>
-  <a href="https://www.credly.com/badges/2fdf0ad5-3bfd-4aab-ae81-8d106505b3d8">
+  <a href="https://coursera.org/verify/ACUOF6KH4Y3A">
     <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Web-Development.png" 
      alt="Web-Development" width="100" height="100">
   </a>
+  <!--
   <a href="https://www.credly.com/badges/120407eb-eda8-40f5-84d7-2f5b194981c8">
     <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Frontend-Development-with-React.png" 
      alt="Frontend-Development-with-React" width="100" height="100">
