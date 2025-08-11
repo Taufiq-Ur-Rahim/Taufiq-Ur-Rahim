@@ -8,7 +8,7 @@ Mostafa-Zewail77/Mostafa-Zewail77 is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes. -->
 <style>
  .badge-links a{
-  margin-right:10px;
+  margin-right:100px;
  }
  </style>
 
