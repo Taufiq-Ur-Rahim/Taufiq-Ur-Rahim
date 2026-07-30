@@ -70,7 +70,7 @@ I'm Taufiq,a Professional Full Stack Web Developer DevOps & Software Engineer. ð
      alt="Web-Development" width="100" height="100">
   </a>
   <a href="https://www.credly.com/badges/220e7904-9939-4c0d-8b9e-02a8945f50f1/public_url">
-    <img src="https://github.com/Taufiq-Ur-Rahim/Taufiq-Ur-Rahim/blob/main/certificates/AI-For-Everyone-1.png?raw=true" 
+    <img src="https://github.com/Taufiq-Ur-Rahim/Taufiq-Ur-Rahim/blob/main/certificates/python-essentials-1.1.png?raw=true" 
      alt="Web-Development" width="100" height="100">
   </a>
   <!--
